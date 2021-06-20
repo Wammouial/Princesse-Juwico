@@ -1,4 +1,6 @@
 # Princesse-Juwico
+Mario Bross Type Beat Game.
+
 Final project in computer sciences at highschool.
 
 The project has been written in Python 3 with
